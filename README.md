@@ -26,7 +26,7 @@ Here are some highlights of my portfolio. Each project includes a detailed expla
 - **Key Insights:** 
   - Seasonal trends drive peak sales during Q4.
   - Top 5 products account for 35% of total revenue.
-- [Explore Project]()  
+- [Explore Project](https://github.com/0-jagadish-0/jaagdish/blob/1fc4adb9c74ae84246478dd9d40c2739fc218e73/country.py)  
 
 ---
 
