@@ -67,7 +67,7 @@ Here are some highlights of my portfolio. Each project includes a detailed expla
 
 ---
 
-### **4. Web Scraping criketers_data**
+### **4. Web Scraping cricketers_data**
 - **Description:** This project involves creating a web scraping script to extract a comprehensive list of cricket players from a statistics website, categorized alphabetically.
 -  The scraped data is processed and stored in a structured format using pandas and saved as a CSV file. This project showcases proficiency in web scraping, data parsing, and storage using Python.
 - **Tools Used:** Python (Pandas, Requests, Beautifulsoup)
