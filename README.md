@@ -66,6 +66,24 @@ Here are some highlights of my portfolio. Each project includes a detailed expla
 - [Explore Project](https://github.com/0-jagadish-0/jagadish/blob/4ca8198cf1ec988c22674a3e3b460f49e7c2c94d/web%20scarping%20countries_capitals/captials.py)  
 
 ---
+
+### **4. Web Scraping criketers_data**
+- **Description:** This project involves creating a web scraping script to extract a comprehensive list of cricket players from a statistics website, categorized alphabetically.
+-  The scraped data is processed and stored in a structured format using pandas and saved as a CSV file. This project showcases proficiency in web scraping, data parsing, and storage using Python.
+- **Tools Used:** Python (Pandas, Requests, Beautifulsoup)
+- **Key Features:** 
+  - Dynamic URL Handling: Iterates through URLs for all alphabetical categories (A-Z).
+  - Data Extraction: Scrapes player names and related details from the target website.
+  - HTML Parsing: Utilizes Beautiful Soup to identify and extract data from specific table structures.
+  - Data Storage: Converts extracted data into a pandas DataFrame and saves it as a CSV file
+- **Skills Demonstrated:**
+  - Web scraping using Beautiful Soup.
+  - Efficient data handling and storage using pandas.
+  - Automating tasks with Python.
+  - Working with HTML and identifying specific elements (e.g., tables).
+- [Explore Project]()  
+
+---
 ## 📂 Repository Structure
 
 ```plaintext
