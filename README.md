@@ -19,12 +19,12 @@ I am a data analyst passionate about uncovering meaningful insights from data an
 ## 🌟 Featured Projects
 
 Here are some highlights of my portfolio. Each project includes a detailed explanation, code, and visualizations.
-
-##web scarping projects
-
+---
+## web scraping projects
+---
 ### **1. Web Scraping Quotes**
 - **Description:** This script scrapes quotes, their authors, and tags from the website 'https://quotes.toscrape.com'. 
-    The data is saved into a CSV file named 'quotes.csv'.This is my first attempt at web scarping
+    The data is saved into a CSV file named 'quotes.csv'.This is my first attempt at web scraping
 - **Tools Used:** Python (Pandas, Requests, Beautifulsoup)
 - **Key Insights:** 
   - The script demonstrates how to scrape structured data from a website (https://quotes.toscrape.com).
