@@ -9,9 +9,9 @@ Welcome to my data analyst portfolio! This repository showcases my skills, techn
 I am a data analyst passionate about uncovering meaningful insights from data and driving informed decision-making. With expertise in data cleaning, analysis, and visualization, I strive to turn complex datasets into actionable stories.
 
 **Key Skills:**
-- Programming: Python (Pandas, NumPy, Matplotlib, Seaborn, scikit-learn)
-- Databases: SQL (MySQL, PostgreSQL)
-- Visualization: Tableau, Power BI, Excel
+- Programming: Python (Pandas, NumPy, Matplotlib, Seaborn, beautifulsoup, Requests)
+- Databases: SQL (MySQL, Oracle)
+- Visualization:  Power BI, Excel
 - Analysis: Exploratory Data Analysis (EDA), Statistical Analysis, Predictive Modeling
 
 ---
@@ -20,33 +20,22 @@ I am a data analyst passionate about uncovering meaningful insights from data an
 
 Here are some highlights of my portfolio. Each project includes a detailed explanation, code, and visualizations.
 
-### **1. Retail Sales Analysis**
-- **Description:** Analyzed a retail dataset to identify sales trends, top-performing products, and customer purchasing behavior.
-- **Tools Used:** Python (Pandas, Matplotlib, Seaborn)
+### **1. Web Scraping Quotes**
+- **Description:** This script scrapes quotes, their authors, and tags from the website 'https://quotes.toscrape.com'. 
+    The data is saved into a CSV file named 'quotes.csv'.This is my first attempt at web scarping
+- **Tools Used:** Python (Pandas, Requests, Beautifulsoup)
 - **Key Insights:** 
-  - Seasonal trends drive peak sales during Q4.
-  - Top 5 products account for 35% of total revenue.
+  - The script demonstrates how to scrape structured data from a website (https://quotes.toscrape.com).
+  - Extracts quotes, their respective authors, and associated tags from multiple pages.
+  - The collected data is stored in a CSV file (quotes.csv) for further analysis or usage.
+- ** Limitations and Areas for Improvement:**
+  - Static Website: Works well for static websites like quotes.toscrape.com, but might need adjustments for dynamic or JavaScript-rendered pages.
+  - Error and Timeout Handling: Lacks explicit handling for potential errors like network issues or server timeouts.
 - [Explore Project](https://github.com/0-jagadish-0/jaagdish/blob/1fc4adb9c74ae84246478dd9d40c2739fc218e73/country.py)  
 
 ---
 
-### **2. Customer Segmentation with Clustering**
-- **Description:** Performed customer segmentation using k-means clustering to identify target customer groups for marketing campaigns.
-- **Tools Used:** Python (scikit-learn), Tableau
-- **Key Insights:**
-  - Segmented customers into 4 distinct groups based on spending habits.
-  - Insights enabled personalized marketing, increasing campaign ROI.
-- [Explore Project](#)
 
----
-
-### **3. COVID-19 Interactive Dashboard**
-- **Description:** Developed an interactive dashboard to visualize and track global COVID-19 statistics.
-- **Tools Used:** Tableau
-- **Key Features:**
-  - Daily updates on case counts, recoveries, and fatalities.
-  - Region-specific filters for focused insights.
-- [Explore Project](#)
 
 ---
 
