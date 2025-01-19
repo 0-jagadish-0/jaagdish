@@ -63,7 +63,7 @@ Here are some highlights of my portfolio. Each project includes a detailed expla
   - Automating data collection from public web pages.
   - Creating datasets for research or data analysis projects.
   - Serving as a foundational skill for larger web scraping projects.
-- [Explore Project](https://github.com/0-jagadish-0/jagadish/blob/18447c00ff8e87986042c93f6cdfb1fdf19b3937/web%20scarping%20countries_population/country.py)  
+- [Explore Project](https://github.com/0-jagadish-0/jagadish/blob/4ca8198cf1ec988c22674a3e3b460f49e7c2c94d/web%20scarping%20countries_capitals/captials.py)  
 
 ---
 ## 📂 Repository Structure
@@ -77,6 +77,6 @@ Here are some highlights of my portfolio. Each project includes a detailed expla
 │   ├── country.py
 │   └── countries.csv
 ├── 📂 Project 3: Web Scraping countries_capitals
-│   ├── 
-│   ├── 
+│   ├── capital.py
+│   ├── caps.csv
 ├── README.md
