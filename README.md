@@ -20,6 +20,8 @@ I am a data analyst passionate about uncovering meaningful insights from data an
 
 Here are some highlights of my portfolio. Each project includes a detailed explanation, code, and visualizations.
 
+##web scarping projects
+
 ### **1. Web Scraping Quotes**
 - **Description:** This script scrapes quotes, their authors, and tags from the website 'https://quotes.toscrape.com'. 
     The data is saved into a CSV file named 'quotes.csv'.This is my first attempt at web scarping
@@ -84,6 +86,26 @@ Here are some highlights of my portfolio. Each project includes a detailed expla
 - [Explore Project](https://github.com/0-jagadish-0/jagadish/blob/905868aaab5e36aa4a3df844466a83b85febb0df/web%20scarping%20cricket_players_data/circket_players.py)  
 
 ---
+### **5. Web Scraping oylmpics_data**
+- **Description:** his project is a Python-based web scraping script designed to extract Olympic medal data from the Olympedia website.
+- The script automates the process of gathering structured information from multiple pages and organizes the data into a well-formatted CSV file.
+-  A key highlight of this project is the inclusion of robust error handling for the first time, making the scraping process more reliable and efficient.
+- **Tools Used:** Python (Pandas, Requests, Beautifulsoup)
+- **Key Features:** 
+  - Dynamic Page Navigation: Automatically iterates through multiple pages to scrape data.
+  - Error Handling: Implemented error handling for the first time, enabling the script to gracefully handle:
+     Missing pages (e.g., skips pages 27 and 28).
+     HTTP errors like 404 (Not Found) and other non-200 responses.
+     Network-related exceptions (e.g., timeouts).
+  - Data Normalization: Ensures consistent column structure across all scraped data.
+  - CSV Export: Saves the cleaned and structured data into a CSV file for analysis and sharing.
+- **Challenges Solved:**
+  - Successfully addressed missing data pages.
+  - Implemented error handling to manage HTTP and network-related issues.
+  - Dynamically adjusted column structures for inconsistent table rows.
+- [Explore Project](https://github.com/0-jagadish-0/jagadish/blob/905868aaab5e36aa4a3df844466a83b85febb0df/web%20scarping%20cricket_players_data/circket_players.py)  
+
+---
 ## 📂 Repository Structure
 
 ```plaintext
@@ -100,4 +122,7 @@ Here are some highlights of my portfolio. Each project includes a detailed expla
 ├── 📂 Project 4: Web Scraping cricketers_data
 │   ├── cricket_palyers.py
 │   ├── cricket_palyer.csv
+├── 📂 Project 5: Web Scraping olympics_data
+│   ├── main.py
+│   ├── olympics_data.csv
 ├── README.md
