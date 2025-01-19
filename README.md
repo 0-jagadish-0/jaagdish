@@ -46,7 +46,7 @@ Here are some highlights of my portfolio. Each project includes a detailed expla
 ├── 📂 Project 1: web scarping quotes
 │   ├── quotes.py
 │   └── quotes.csv
-├── 📂 Project 2: 
+├── 📂 Project 2: a
 │   ├── 
 │   ├── 
 │   └── 
