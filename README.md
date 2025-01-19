@@ -81,7 +81,7 @@ Here are some highlights of my portfolio. Each project includes a detailed expla
   - Efficient data handling and storage using pandas.
   - Automating tasks with Python.
   - Working with HTML and identifying specific elements (e.g., tables).
-- [Explore Project]()  
+- [Explore Project](https://github.com/0-jagadish-0/jagadish/blob/905868aaab5e36aa4a3df844466a83b85febb0df/web%20scarping%20cricket_players_data/circket_players.py)  
 
 ---
 ## 📂 Repository Structure
@@ -97,4 +97,7 @@ Here are some highlights of my portfolio. Each project includes a detailed expla
 ├── 📂 Project 3: Web Scraping countries_capitals
 │   ├── capital.py
 │   ├── caps.csv
+├── 📂 Project 4: Web Scraping cricketers_data
+│   ├── cricket_palyers.py
+│   ├── cricket_palyer.csv
 ├── README.md
