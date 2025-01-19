@@ -56,7 +56,7 @@ I am a data analyst passionate about uncovering meaningful insights from data an
 
   ### **3. Web Scraping countries_capitals**
   - **Description:** This project demonstrates how to scrape tabular data from a Wikipedia page and process it into a structured format using Python.
-  - The data collected includes a list of countries and their capitals in native languages, which is saved in a CSV file for further analysis or sharing.
+     The data collected includes a list of countries and their capitals in native languages, which is saved in a CSV file for further analysis or sharing.
   - **Tools Used:** Python (Pandas, Requests, Beautifulsoup)
   - **Challenges Solved:** 
     - Extracting multi-table data from HTML.
@@ -72,7 +72,7 @@ I am a data analyst passionate about uncovering meaningful insights from data an
 
   ### **4. Web Scraping cricketers_data**
   - **Description:** This project involves creating a web scraping script to extract a comprehensive list of cricket players from a statistics website, categorized alphabetically.
-  -  The scraped data is processed and stored in a structured format using pandas and saved as a CSV file. This project showcases proficiency in web scraping, data parsing, and storage using Python.
+     The scraped data is processed and stored in a structured format using pandas and saved as a CSV file. This project showcases proficiency in web scraping, data parsing, and storage using Python.
   - **Tools Used:** Python (Pandas, Requests, Beautifulsoup)
   - **Key Features:** 
     - Dynamic URL Handling: Iterates through URLs for all alphabetical categories (A-Z).
@@ -90,8 +90,8 @@ I am a data analyst passionate about uncovering meaningful insights from data an
 
   ### **5. Web Scraping olympics_data**
   - **Description:** his project is a Python-based web scraping script designed to extract Olympic medal data from the Olympedia website.
-  - The script automates the process of gathering structured information from multiple pages and organizes the data into a well-formatted CSV file.
-  -  A key highlight of this project is the inclusion of robust error handling for the first time, making the scraping process more reliable and efficient.
+     The script automates the process of gathering structured information from multiple pages and organizes the data into a well-formatted CSV file.
+    A key highlight of this project is the inclusion of robust error handling for the first time, making the scraping process more reliable and efficient.
   - **Tools Used:** Python (Pandas, Requests, Beautifulsoup)
   - **Key Features:** 
     - Dynamic Page Navigation: Automatically iterates through multiple pages to scrape data.
