@@ -31,7 +31,7 @@ Here are some highlights of my portfolio. Each project includes a detailed expla
 - **Limitations and Areas for Improvement:**
   - Static Website: Works well for static websites like quotes.toscrape.com, but might need adjustments for dynamic or JavaScript-rendered pages.
   - Error and Timeout Handling: Lacks explicit handling for potential errors like network issues or server timeouts.
-- [Explore Project](https://github.com/0-jagadish-0/jaagdish/blob/1fc4adb9c74ae84246478dd9d40c2739fc218e73/country.py)  
+- [Explore Project](https://github.com/0-jagadish-0/jagadish/blob/8e3ba3d19bd8e27d7bd870e3be6025d051d68d11/webscarping%20quotes/quotes.py)  
 
 ---
 
@@ -44,14 +44,13 @@ Here are some highlights of my portfolio. Each project includes a detailed expla
 ```plaintext
 📁 data-analyst-portfolio/
 ├── 📂 Project 1: web scarping quotes
-│   ├── retail_sales_analysis.ipynb
-│   ├── README.md
-│   └── data.csv
-├── 📂 Project 2: Customer Segmentation
-│   ├── customer_segmentation.ipynb
-│   ├── README.md
-│   └── data.csv
-├── 📂 Project 3: COVID-19 Dashboard
-│   ├── dashboard.twb
-│   ├── README.md
+│   ├── quotes.py
+│   └── quotes.csv
+├── 📂 Project 2: 
+│   ├── 
+│   ├── 
+│   └── 
+├── 📂 Project 3:
+│   ├── 
+│   ├── 
 ├── README.md
