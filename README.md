@@ -103,7 +103,7 @@ Here are some highlights of my portfolio. Each project includes a detailed expla
   - Successfully addressed missing data pages.
   - Implemented error handling to manage HTTP and network-related issues.
   - Dynamically adjusted column structures for inconsistent table rows.
-- [Explore Project](https://github.com/0-jagadish-0/jagadish/blob/905868aaab5e36aa4a3df844466a83b85febb0df/web%20scarping%20cricket_players_data/circket_players.py)  
+- [Explore Project](https://github.com/0-jagadish-0/jagadish/blob/7bb2883fd437df71236f0bdeb8a088f41d91f552/web%20scarping%20oplympics%20data/main.py)  
 
 ---
 ## 📂 Repository Structure
