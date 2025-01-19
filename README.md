@@ -43,7 +43,7 @@ Here are some highlights of my portfolio. Each project includes a detailed expla
 
 ```plaintext
 📁 data-analyst-portfolio/
-├── 📂 Project 1: Retail Sales Analysis
+├── 📂 Project 1: web scarping quotes
 │   ├── retail_sales_analysis.ipynb
 │   ├── README.md
 │   └── data.csv
