@@ -28,7 +28,7 @@ Here are some highlights of my portfolio. Each project includes a detailed expla
   - The script demonstrates how to scrape structured data from a website (https://quotes.toscrape.com).
   - Extracts quotes, their respective authors, and associated tags from multiple pages.
   - The collected data is stored in a CSV file (quotes.csv) for further analysis or usage.
-- ** Limitations and Areas for Improvement:**
+- **Limitations and Areas for Improvement:**
   - Static Website: Works well for static websites like quotes.toscrape.com, but might need adjustments for dynamic or JavaScript-rendered pages.
   - Error and Timeout Handling: Lacks explicit handling for potential errors like network issues or server timeouts.
 - [Explore Project](https://github.com/0-jagadish-0/jaagdish/blob/1fc4adb9c74ae84246478dd9d40c2739fc218e73/country.py)  
