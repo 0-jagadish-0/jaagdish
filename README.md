@@ -19,7 +19,7 @@ I am a data analyst passionate about uncovering meaningful insights from data an
 ## 🌟 Featured Projects
 
 Here are some highlights of my portfolio. Each project includes a detailed explanation, code, and visualizations.
----
+
 ## web scraping projects
 ---
 ### **1. Web Scraping Quotes**
