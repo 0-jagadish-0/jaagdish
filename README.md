@@ -35,7 +35,7 @@ Here are some highlights of my portfolio. Each project includes a detailed expla
 
 ---
 ### **2. Web Scraping countries_population**
-- **Description:**This project involves web scraping country population data from the Wikipedia page:
+- **Description:** This project involves web scraping country population data from the Wikipedia page:
     https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population.
     The script extracts tabular data, including the rank, country or dependency name, population, and other relevant details.
     It stores the data in a structured format using Pandas, enabling further analysis or export to a file format like CSV.
@@ -45,10 +45,10 @@ Here are some highlights of my portfolio. Each project includes a detailed expla
   - Handling HTML Tables: Iterates through rows and columns to capture clean, usable data.
   - Data Formatting: Strips extra whitespace for a polished and consistent dataset.
 - **Conclusion:**
-  -This project highlights the basics of web scraping, dynamic data extraction, and data structuring using Python.
-  The output can be applied to various analytical tasks or saved for future reference. It provides a robust framework for extracting structured data from 
+  - This project highlights the basics of web scraping, dynamic data extraction, and data structuring using Python.
+   The output can be applied to various analytical tasks or saved for future reference. It provides a robust framework for extracting structured data from 
    similar tables on other webpages.
-- [Explore Project](https://github.com/0-jagadish-0/jagadish/blob/8e3ba3d19bd8e27d7bd870e3be6025d051d68d11/webscarping%20quotes/quotes.py)  
+- [Explore Project](https://github.com/0-jagadish-0/jagadish/blob/18447c00ff8e87986042c93f6cdfb1fdf19b3937/web%20scarping%20countries_population/country.py)  
 
 
 ---
