@@ -19,7 +19,7 @@ I am a data analyst passionate about uncovering meaningful insights from data an
 ## 🌟 Featured Projects
 
 <details>
-  <summary>**Web Scraping Projects**</summary>
+  <summary>** Web Scraping Projects **</summary>
 
   ### **1. Web Scraping Quotes**
   - **Description:** This script scrapes quotes, their authors, and tags from the website 'https://quotes.toscrape.com'. 
