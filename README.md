@@ -50,9 +50,22 @@ Here are some highlights of my portfolio. Each project includes a detailed expla
    similar tables on other webpages.
 - [Explore Project](https://github.com/0-jagadish-0/jagadish/blob/18447c00ff8e87986042c93f6cdfb1fdf19b3937/web%20scarping%20countries_population/country.py)  
 
+---
+### **3. Web Scraping countries_capitals**
+- **Description:** This project demonstrates how to scrape tabular data from a Wikipedia page and process it into a structured format using Python.
+- The data collected includes a list of countries and their capitals in native languages, which is saved in a CSV file for further analysis or sharing.
+- **Tools Used:** Python (Pandas, Requests, Beautifulsoup)
+- **Challenges Solved:** 
+  - Extracting multi-table data from HTML.
+  - Cleaning and structuring unformatted web data into a readable format.
+  - Managing dynamic or inconsistent HTML structures.
+- **Potential Applications:**
+  - Automating data collection from public web pages.
+  - Creating datasets for research or data analysis projects.
+  - Serving as a foundational skill for larger web scraping projects.
+- [Explore Project](https://github.com/0-jagadish-0/jagadish/blob/18447c00ff8e87986042c93f6cdfb1fdf19b3937/web%20scarping%20countries_population/country.py)  
 
 ---
-
 ## 📂 Repository Structure
 
 ```plaintext
@@ -63,7 +76,7 @@ Here are some highlights of my portfolio. Each project includes a detailed expla
 ├── 📂 Project 2: web scarping countries_population
 │   ├── country.py
 │   └── countries.csv
-├── 📂 Project 3:
+├── 📂 Project 3: Web Scraping countries_capitals
 │   ├── 
 │   ├── 
 ├── README.md
