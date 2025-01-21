@@ -133,7 +133,7 @@ I am a data analyst passionate about uncovering meaningful insights from data an
   - Data analysis and interpretation.
   - Data visualization using Seaborn and Matplotlib.
   - Communicating findings effectively through visual and textual narratives.
-  - [Explore Project](https://github.com/0-jagadish-0/jagadish/blob/7bb2883fd437df71236f0bdeb8a088f41d91f552/web%20scarping%20oplympics%20data/main.py)
+  - [Explore Project](https://github.com/0-jagadish-0/jagadish/blob/b69bc9c0b4b810d1510cd95e4ecb688694947e53/Data%20Anlysis%20Titanic%20Survivors/main.ipynb)
   
 <details>
   
