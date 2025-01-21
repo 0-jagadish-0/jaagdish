@@ -136,7 +136,7 @@ I am a data analyst passionate about uncovering meaningful insights from data an
   - [Explore Project](https://github.com/0-jagadish-0/jagadish/blob/b69bc9c0b4b810d1510cd95e4ecb688694947e53/Data%20Anlysis%20Titanic%20Survivors/main.ipynb)
   
 <details>
-  
+<details>
 ## 📂 Repository Structure
 
 ```plaintext
@@ -161,4 +161,4 @@ I am a data analyst passionate about uncovering meaningful insights from data an
 │   ├── tested.csv
 ├── README.md
 ```
-
+<details>
