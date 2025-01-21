@@ -156,6 +156,9 @@ I am a data analyst passionate about uncovering meaningful insights from data an
 ├── 📂 Project 5: Web Scraping olympics_data
 │   ├── main.py
 │   ├── olympics_data.csv
+├── 📂 Project 6: Data Anlysis Titanic Survivors
+│   ├── main.py
+│   ├── tested.csv
 ├── README.md
 ```
 
