@@ -129,14 +129,14 @@ I am a data analyst passionate about uncovering meaningful insights from data an
     - Handling Missing Data: Applied techniques like imputation and exclusion for missing values in the age and embarkation columns.
     - Balancing Data for Visualization: Used percentage-based normalization to avoid misleading interpretations due to class imbalances.
   - **Skills Demonstrated:**
-  - Data preprocessing and cleaning.
-  - Data analysis and interpretation.
-  - Data visualization using Seaborn and Matplotlib.
-  - Communicating findings effectively through visual and textual narratives.
+    - Data preprocessing and cleaning.
+    - Data analysis and interpretation.
+    - Data visualization using Seaborn and Matplotlib.
+    - Communicating findings effectively through visual and textual narratives.
   - [Explore Project](https://github.com/0-jagadish-0/jagadish/blob/b69bc9c0b4b810d1510cd95e4ecb688694947e53/Data%20Anlysis%20Titanic%20Survivors/main.ipynb)
   
 <details>
-<details>
+---
 ## 📂 Repository Structure
 
 ```plaintext
@@ -161,4 +161,3 @@ I am a data analyst passionate about uncovering meaningful insights from data an
 │   ├── tested.csv
 ├── README.md
 ```
-<details>
