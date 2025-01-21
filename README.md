@@ -110,7 +110,33 @@ I am a data analyst passionate about uncovering meaningful insights from data an
 </details>
 
 ---
+<details>
+  <summary>** Data Analysis Projetcs **</summary>
 
+  ### **1. Titanic Survivors Analysis**
+  - **Description:** In this project, we perform a comprehensive analysis of the Titanic dataset to explore survival rates based on various factors such as class, gender, age, and embarkation port.
+     The dataset is cleaned by handling missing values and then analyzed to determine patterns that might have influenced passengers' chances of survival.
+    The results are visualized through different plots to provide a clear understanding of how each factor impacted survival on the Titanic.
+  - **Tools Used:** Python (Pandas, Numpy, Seaborn, Matplotlib)
+  - **Visualiations:** 
+    - Created five key visualizations to highlight insights:
+    - Overall Survivors: Bar chart showing the percentage of survivors versus non-survivors.
+    - Survivors by Gender: Comparison of survival rates between males and females, highlighting significant gender differences.
+    - Survivors by Age Group: Age groups (e.g., children, adults, elderly) and their respective survival rates visualized using a histogram or box plot.
+    - Survivors by Class: A breakdown of survival rates across first, second, and third-class passengers using a bar plot.
+    - Survivors by Embarkation Port: Analysis of survival rates based on the embarkation ports (Southampton, Cherbourg, Queenstown) using a bar or pie chart.
+  - **Challenges Solved:**
+    - Handling Missing Data: Applied techniques like imputation and exclusion for missing values in the age and embarkation columns.
+    - Balancing Data for Visualization: Used percentage-based normalization to avoid misleading interpretations due to class imbalances.
+  - **Skills Demonstrated:**
+  - Data preprocessing and cleaning.
+  - Data analysis and interpretation.
+  - Data visualization using Seaborn and Matplotlib.
+  - Communicating findings effectively through visual and textual narratives.
+  - [Explore Project](https://github.com/0-jagadish-0/jagadish/blob/7bb2883fd437df71236f0bdeb8a088f41d91f552/web%20scarping%20oplympics%20data/main.py)
+  
+<details>
+  
 ## 📂 Repository Structure
 
 ```plaintext
