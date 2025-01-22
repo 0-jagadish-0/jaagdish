@@ -149,7 +149,7 @@ I am a data analyst passionate about uncovering meaningful insights from data an
     - Data analysis and interpretation.
     - Data visualization using Seaborn and Matplotlib.
     - Communicating findings effectively through visual and textual narratives.
-  - [Explore Project](https://github.com/0-jagadish-0/jagadish/blob/b69bc9c0b4b810d1510cd95e4ecb688694947e53/Data%20Anlysis%20Titanic%20Survivors/main.ipynb)
+  - [Explore Project](https://github.com/0-jagadish-0/jagadish/blob/a013dddd8c3e1f741487c1380ebe649319f48cee/facebook%20stock%20strategy/main.ipynb)
   
 <details>
 ---
@@ -173,7 +173,10 @@ I am a data analyst passionate about uncovering meaningful insights from data an
 │   ├── main.py
 │   ├── olympics_data.csv
 ├── 📂 Project 6: Data Anlysis Titanic Survivors
-│   ├── main.py
+│   ├── main.ipynb
 │   ├── tested.csv
+├── 📂 Project 7: facebook stock strategy
+│   ├── main.ipynb
+│   ├── FB.csv
 ├── README.md
 ```
