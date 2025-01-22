@@ -134,6 +134,22 @@ I am a data analyst passionate about uncovering meaningful insights from data an
     - Data visualization using Seaborn and Matplotlib.
     - Communicating findings effectively through visual and textual narratives.
   - [Explore Project](https://github.com/0-jagadish-0/jagadish/blob/b69bc9c0b4b810d1510cd95e4ecb688694947e53/Data%20Anlysis%20Titanic%20Survivors/main.ipynb)
+  - 
+  ### **1. Simple Trading Strategy Using Facebook stock data **
+  - **Description:** This project demonstrates a simple trading strategy using historical stock data for Facebook (Meta Platforms).
+      The strategy leverages moving averages to generate buy signals and evaluates the overall performance of the strategy over time.
+      It is designed to help understand basic financial analysis concepts and Python programming for data manipulation and visualization.
+  - **Tools Used:** Python (Pandas, Numpy, Seaborn, Matplotlib)
+  - **Key Features:** 
+    - Interactive Visualization: Easily interpretable charts highlighting the strategy’s signals.
+    - Customizable Strategy: Modify the moving average parameters to test different trading strategies.
+    - Beginner-Friendly Code: Clear, well-documented code for ease of understanding and learning.
+  - **Skills Demonstrated:**
+    - Data preprocessing and cleaning.
+    - Data analysis and interpretation.
+    - Data visualization using Seaborn and Matplotlib.
+    - Communicating findings effectively through visual and textual narratives.
+  - [Explore Project](https://github.com/0-jagadish-0/jagadish/blob/b69bc9c0b4b810d1510cd95e4ecb688694947e53/Data%20Anlysis%20Titanic%20Survivors/main.ipynb)
   
 <details>
 ---
