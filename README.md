@@ -114,8 +114,8 @@ I am a data analyst passionate about uncovering meaningful insights from data an
 
   ### **1. Titanic Survivors Analysis**
   - **Description:** In this project, we perform a comprehensive analysis of the Titanic dataset to explore survival rates based on various factors such as class, gender, age, and embarkation port.
-     The dataset is cleaned by handling missing values and then analyzed to determine patterns that might have influenced passengers' chances of survival.
-    The results are visualized through different plots to provide a clear understanding of how each factor impacted survival on the Titanic.
+      The dataset is cleaned by handling missing values and then analyzed to determine patterns that might have influenced passengers' chances of survival.
+     The results are visualized through different plots to provide a clear understanding of how each factor impacted survival on the Titanic.
   - **Tools Used:** Python (Pandas, Numpy, Seaborn, Matplotlib)
   - **Visualiations:** 
     - Created five key visualizations to highlight insights:
@@ -156,25 +156,25 @@ I am a data analyst passionate about uncovering meaningful insights from data an
   <summary>** Dash-Borads **</summary>
 
   ### **1. Customer data analysis**
-  - **Description:**The goal of this project was to create a comprehensive dashboard that provides insights into various revenue metrics,
-  - offering a detailed view of the revenue performance across multiple dimensions. The dashboard aims to empower the marketing team with actionable insights into key business drivers.
+  - **Description:** The goal of this project was to create a comprehensive dashboard that provides insights into various revenue metrics,
+     offering a detailed view of the revenue performance across multiple dimensions. The dashboard aims to empower the marketing team with actionable insights into key business drivers.
   - **Tools Used:** Tableau
   - **Visualiations:** 
-  - Revenue by State: A visual representation of revenue generated from different states, helping the team identify high and low-performing regions.
-  - Revenue by Month: An analysis of monthly revenue trends, enabling the marketing team to track seasonal patterns and plan campaigns accordingly.
-  - Revenue by Age Group: A breakdown of revenue based on customer age groups, offering valuable insights into which demographics are driving the most revenue.
-  - Discount Percentage vs. Quantity Sold: A correlation analysis to explore how discount percentages impact sales volume, helping to refine pricing strategies.
-  - Revenue Percentage by Region: A geographic breakdown of revenue contributions by different regions, aiding regional marketing and sales teams.
-  - Revenue by Category per Gender: A comparison of revenue by product category segmented by gender, enabling more targeted and personalized marketing efforts.
+    - Revenue by State: A visual representation of revenue generated from different states, helping the team identify high and low-performing regions.
+    - Revenue by Month: An analysis of monthly revenue trends, enabling the marketing team to track seasonal patterns and plan campaigns accordingly.
+    - Revenue by Age Group: A breakdown of revenue based on customer age groups, offering valuable insights into which demographics are driving the most revenue.
+    - Discount Percentage vs. Quantity Sold: A correlation analysis to explore how discount percentages impact sales volume, helping to refine pricing strategies.
+    - Revenue Percentage by Region: A geographic breakdown of revenue contributions by different regions, aiding regional marketing and sales teams.
+    - Revenue by Category per Gender: A comparison of revenue by product category segmented by gender, enabling more targeted and personalized marketing efforts.
   - **Features of the Dashboard::**
-  - Interactive Filters: Users can interact with the dashboard by applying filters such as state, gender, and category to drill down into specific insights.
-  - Dynamic Visualizations: Includes bar charts, line graphs, pie charts, and maps for a diverse representation of the data.
-  - Revenue Trends Over Time: A line graph for tracking revenue growth across different months, allowing for easy identification of growth or decline patterns.
-  - Cross-Tab Views: Ability to view segmented data across multiple dimensions such as age, gender, and region for more granular insights.
+    - Interactive Filters: Users can interact with the dashboard by applying filters such as state, gender, and category to drill down into specific insights.
+    - Dynamic Visualizations: Includes bar charts, line graphs, pie charts, and maps for a diverse representation of the data.
+    - Revenue Trends Over Time: A line graph for tracking revenue growth across different months, allowing for easy identification of growth or decline patterns.
+    - Cross-Tab Views: Ability to view segmented data across multiple dimensions such as age, gender, and region for more granular insights.
   - **Outcomes & Impact:**
-    The dashboard enabled the marketing team to identify high-performing regions and demographics, which helped tailor marketing strategies and improve resource allocation.
-    Insights into the relationship between discount percentage and quantity sold allowed the pricing strategy to be optimized, potentially increasing overall sales without sacrificing profit margins.
-    The regional and gender-specific breakdowns enabled the development of more personalized marketing campaigns, resulting in higher engagement and conversion rates.
+      The dashboard enabled the marketing team to identify high-performing regions and demographics, which helped tailor marketing strategies and improve resource allocation.
+      Insights into the relationship between discount percentage and quantity sold allowed the pricing strategy to be optimized, potentially increasing overall sales without sacrificing profit margins.
+      The regional and gender-specific breakdowns enabled the development of more personalized marketing campaigns, resulting in higher engagement and conversion rates.
   - [Explore Project](https://public.tableau.com/views/customeranalysis_17378026947060/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 </details>
