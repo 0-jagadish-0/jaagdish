@@ -151,8 +151,37 @@ I am a data analyst passionate about uncovering meaningful insights from data an
     - Communicating findings effectively through visual and textual narratives.
   - [Explore Project](https://github.com/0-jagadish-0/jagadish/blob/a013dddd8c3e1f741487c1380ebe649319f48cee/facebook%20stock%20strategy/main.ipynb)
   
-<details>
+<details>  
 ---
+  <details>
+  <summary>** Dash Boards**</summary>
+
+  ### **1. Customer_analysis dashboard**
+  - **Description:** This project demonstrates a simple trading strategy using historical stock data for Facebook (Meta Platforms).
+      The strategy leverages moving averages to generate buy signals and evaluates the overall performance of the strategy over time.
+      It is designed to help understand basic financial analysis concepts and Python programming for data manipulation and visualization.
+  - **Tools Used:** Python (Pandas, Numpy, Seaborn, Matplotlib)
+  - **Key Features:** 
+    - Interactive Visualization: Easily interpretable charts highlighting the strategy’s signals.
+    - Customizable Strategy: Modify the moving average parameters to test different trading strategies.
+    - Beginner-Friendly Code: Clear, well-documented code for ease of understanding and learning.
+  - **Skills Demonstrated:**
+    - Data preprocessing and cleaning.
+    - Data analysis and interpretation.
+    - Data visualization using Seaborn and Matplotlib.
+    - Communicating findings effectively through visual and textual narratives.
+  - [Explore Project](https://public.tableau.com/views/customeranalysis_17378026947060/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
+
+
+
+
+
+  <details>  
+---
+
+    
 ## 📂 Repository Structure
 
 ```plaintext
