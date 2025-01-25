@@ -153,28 +153,33 @@ I am a data analyst passionate about uncovering meaningful insights from data an
   
 <details>  
 ---
-  <details>
-  <summary>** Dash Boards**</summary>
+<details>
+  <summary>** Dash-Boards **</summary>
 
-  ### **1. Customer_analysis dashboard**
-  - **Description:** This project demonstrates a simple trading strategy using historical stock data for Facebook (Meta Platforms).
-      The strategy leverages moving averages to generate buy signals and evaluates the overall performance of the strategy over time.
-      It is designed to help understand basic financial analysis concepts and Python programming for data manipulation and visualization.
+  ### **1. Customer data analysis**
+  - **Description:** In this project, we perform a comprehensive analysis of the Titanic dataset to explore survival rates based on various factors such as class, gender, age, and embarkation port.
+     The dataset is cleaned by handling missing values and then analyzed to determine patterns that might have influenced passengers' chances of survival.
+    The results are visualized through different plots to provide a clear understanding of how each factor impacted survival on the Titanic.
   - **Tools Used:** Python (Pandas, Numpy, Seaborn, Matplotlib)
-  - **Key Features:** 
-    - Interactive Visualization: Easily interpretable charts highlighting the strategy’s signals.
-    - Customizable Strategy: Modify the moving average parameters to test different trading strategies.
-    - Beginner-Friendly Code: Clear, well-documented code for ease of understanding and learning.
+  - **Visualiations:** 
+    - Created five key visualizations to highlight insights:
+    - Overall Survivors: Bar chart showing the percentage of survivors versus non-survivors.
+    - Survivors by Gender: Comparison of survival rates between males and females, highlighting significant gender differences.
+    - Survivors by Age Group: Age groups (e.g., children, adults, elderly) and their respective survival rates visualized using a histogram or box plot.
+    - Survivors by Class: A breakdown of survival rates across first, second, and third-class passengers using a bar plot.
+    - Survivors by Embarkation Port: Analysis of survival rates based on the embarkation ports (Southampton, Cherbourg, Queenstown) using a bar or pie chart.
+  - **Challenges Solved:**
+    - Handling Missing Data: Applied techniques like imputation and exclusion for missing values in the age and embarkation columns.
+    - Balancing Data for Visualization: Used percentage-based normalization to avoid misleading interpretations due to class imbalances.
   - **Skills Demonstrated:**
     - Data preprocessing and cleaning.
     - Data analysis and interpretation.
     - Data visualization using Seaborn and Matplotlib.
     - Communicating findings effectively through visual and textual narratives.
   - [Explore Project](https://public.tableau.com/views/customeranalysis_17378026947060/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-  <details>  
+  
+<details>  
 ---
-
     
 ## 📂 Repository Structure
 
