@@ -111,7 +111,7 @@ I am a data analyst passionate about uncovering meaningful insights from data an
 
 ---
 <details>
-  <summary>** Data Analysis Projetcs **</summary>
+  <summary>**Data Analysis Projetcs**</summary>
 
   ### **1. Titanic Survivors Analysis**
   - **Description:** In this project, we perform a comprehensive analysis of the Titanic dataset to explore survival rates based on various factors such as class, gender, age, and embarkation port.
