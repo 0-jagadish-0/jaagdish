@@ -108,6 +108,8 @@ I am a data analyst passionate about uncovering meaningful insights from data an
   - [Explore Project](https://github.com/0-jagadish-0/jagadish/blob/7bb2883fd437df71236f0bdeb8a088f41d91f552/web%20scarping%20oplympics%20data/main.py)
 
 </details>
+
+<details>
   <summary>**Data Analysis Projetcs**</summary>
 
   ### **1. Titanic Survivors Analysis**
@@ -147,9 +149,11 @@ I am a data analyst passionate about uncovering meaningful insights from data an
     - Data visualization using Seaborn and Matplotlib.
     - Communicating findings effectively through visual and textual narratives.
   - [Explore Project](https://github.com/0-jagadish-0/jagadish/blob/a013dddd8c3e1f741487c1380ebe649319f48cee/facebook%20stock%20strategy/main.ipynb)
+
+</details>
     
 <details>
-  <summary>**Dash-Borads**</summary>
+  <summary>** Dash-Borads **</summary>
 
   ### **1. Customer data analysis**
   - **Description:** In this project, we perform a comprehensive analysis of the Titanic dataset to explore survival rates based on various factors such as class, gender, age, and embarkation port.
@@ -172,6 +176,8 @@ I am a data analyst passionate about uncovering meaningful insights from data an
     - Data visualization using Seaborn and Matplotlib.
     - Communicating findings effectively through visual and textual narratives.
   - [Explore Project](https://public.tableau.com/views/customeranalysis_17378026947060/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+</details>
 
     
 ## 📂 Repository Structure
