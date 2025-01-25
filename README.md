@@ -172,12 +172,6 @@ I am a data analyst passionate about uncovering meaningful insights from data an
     - Communicating findings effectively through visual and textual narratives.
   - [Explore Project](https://public.tableau.com/views/customeranalysis_17378026947060/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-
-
-
-
-
-
   <details>  
 ---
 
