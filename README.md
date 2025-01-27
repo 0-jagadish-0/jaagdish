@@ -202,36 +202,9 @@ I am a data analyst passionate about uncovering meaningful insights from data an
    - Provided insights into profit margin contributors, helping optimize resource allocation and pricing strategies.  
    - Highlighted revenue trends, allowing for better forecasting and strategic planning.  
    - Improved decision-making with actionable, data-driven insights tailored to business needs.
-   - [Explore Project](https://public.tableau.com/views/customeranalysis_17378026947060/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+   - [Explore Project](https://public.tableau.com/views/sales_data_analysis_17379131554170/summary?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 </details>
 
-    
-## 📂 Repository Structure
 
-```plaintext
-📁 data-analyst-portfolio/
-├── 📂 Project 1: web scarping quotes
-│   ├── quotes.py
-│   └── quotes.csv
-├── 📂 Project 2: web scarping countries_population
-│   ├── country.py
-│   └── countries.csv
-├── 📂 Project 3: Web Scraping countries_capitals
-│   ├── capital.py
-│   ├── caps.csv
-├── 📂 Project 4: Web Scraping cricketers_data
-│   ├── cricket_palyers.py
-│   ├── cricket_palyer.csv
-├── 📂 Project 5: Web Scraping olympics_data
-│   ├── main.py
-│   ├── olympics_data.csv
-├── 📂 Project 6: Data Anlysis Titanic Survivors
-│   ├── main.ipynb
-│   ├── tested.csv
-├── 📂 Project 7: facebook stock strategy
-│   ├── main.ipynb
-│   ├── FB.csv
-├── README.md
-```
