@@ -177,6 +177,34 @@ I am a data analyst passionate about uncovering meaningful insights from data an
       The regional and gender-specific breakdowns enabled the development of more personalized marketing campaigns, resulting in higher engagement and conversion rates.
   - [Explore Project](https://public.tableau.com/views/customeranalysis_17378026947060/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+### **2. Sales Analysis Dashboard**  
+- **Description:**  The goal of this project was to build a comprehensive and interactive dashboard that provides detailed insights into sales performance metrics.
+  The dashboard allows businesses to understand key drivers of revenue, profit, and market trends, enabling data-driven decisions to optimize sales strategies and boost profitability.  
+- **Tools Used:**  
+   - Tableau (for dashboard visualization)  
+   - MySQL (for data extraction)  
+   - Python (for automated data cleaning and preprocessing using Pandas)  
+- **Visualizations:**  
+   - **Revenue by Market:** A breakdown of revenue by market, helping identify the most profitable markets and revenue contributions.  
+   - **Profit Margin Percentage by Market:** A visual analysis of profit margin percentages across different markets to pinpoint high-margin segments.  
+   - **Revenue Trend Analysis:** A line graph showing revenue growth trends over time (monthly/quarterly/yearly) to uncover seasonal patterns and growth areas.  
+   - **Profit Margin Contribution by Customer:** Insights into customers contributing the most to overall profit, helping prioritize customer-centric strategies.  
+   - **Top Revenue Contributors by Customer:** A visual breakdown of top customers based on their revenue contributions.  
+   - **Revenue by Product Category:** Analysis of product category performance across different dimensions such as market, region, and gender.  
+- **Features of the Dashboard:**  
+   - **Interactive Filters:** Users can apply filters (e.g., market, region, customer segment) to explore specific insights and drill down into granular details.  
+   - **Dynamic Visualizations:** Includes bar charts, line graphs, and pie charts for intuitive data representation.  
+   - **Profit and Revenue Comparison:** A side-by-side view of profit and revenue metrics to identify areas of inefficiency or opportunities for improvement.  
+   - **Cross-Tab Views:** Enables detailed analysis across multiple dimensions, such as product category and customer demographics.  
+   - **Real-Time Insights:** Updated metrics for accurate and timely decision-making.  
+- **Outcomes & Impact:**  
+   - Enabled the identification of high-performing markets, product categories, and customer segments, leading to targeted sales and marketing strategies.  
+   - Provided insights into profit margin contributors, helping optimize resource allocation and pricing strategies.  
+   - Highlighted revenue trends, allowing for better forecasting and strategic planning.  
+   - Improved decision-making with actionable, data-driven insights tailored to business needs.
+   - [Explore Project](https://public.tableau.com/views/customeranalysis_17378026947060/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
 </details>
 
     
