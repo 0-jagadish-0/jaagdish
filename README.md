@@ -153,7 +153,7 @@ I am a data analyst passionate about uncovering meaningful insights from data an
 </details>
     
 <details>
-  <summary>** Dash-Borads **</summary>
+  <summary>** Dash-Boards **</summary>
 
   ### **1. Customer data analysis**
   - **Description:** The goal of this project was to create a comprehensive dashboard that provides insights into various revenue metrics,
